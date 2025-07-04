@@ -1,7 +1,7 @@
 # fs-access-chunk-store [![ci][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[ci-image]: https://img.shields.io/github/workflow/status/SocketDev/fs-access-chunk-store/ci/master
-[ci-url]: https://github.com/SocketDev/fs-access-chunk-store/actions
+[ci-image]: https://img.shields.io/github/workflow/status/webtorrent/fs-access-chunk-store/ci/master
+[ci-url]: https://github.com/webtorrent/fs-access-chunk-store/actions
 [npm-image]: https://img.shields.io/npm/v/fs-access-chunk-store.svg
 [npm-url]: https://npmjs.org/package/fs-access-chunk-store
 [downloads-image]: https://img.shields.io/npm/dm/fs-access-chunk-store.svg
@@ -42,4 +42,4 @@ chunks.put(0, new Buffer('01234567890'), function (err) {
 
 ## License
 
-MIT. Copyright (c) [Socket Inc](https://socket.dev)
+MIT. Copyright (c) [WebTorrent, LLC](https://webtorrent.io)
